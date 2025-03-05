@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+## 🏆 TryHackMe Badge
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2185062" style="border:none; width:300px; height:150px;"></iframe>
+
+
 <!--
 **lostbit-x/lostbit-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
