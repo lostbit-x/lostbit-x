@@ -1,2 +1,1 @@
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/waleed.x.png)](https://tryhackme.com/p/waleed.x)
-
+https://img.shields.io/badge/dynamic/yaml?url=%23%20My%20TryHackMe%20Profile%20%20%5B!%5BTryHackMe%20Badge%5D(https%3A%2F%2Ftryhackme-badges.s3.amazonaws.com%2Fwaleed.x.png)%5D(https%3A%2F%2Ftryhackme.com%2Fp%2Fwaleed.x)
